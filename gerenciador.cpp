@@ -4,6 +4,12 @@
 #include <string>
 #include <vector>
 
+/*
+    Author: 
+    Daniel Acco Maroni
+    169481@upf.br
+*/
+
 using namespace std;
 const char esc_char = 27;
 
